@@ -1,1 +1,1 @@
-# rel-gio-de-oracao
+# relogio-de-oracao
